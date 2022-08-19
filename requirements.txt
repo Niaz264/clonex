@@ -21,3 +21,5 @@ yt_dlp==2022.5.18
 lxml
 cloudscraper
 selenium
+flask
+flask_restful
